@@ -155,5 +155,5 @@ jobs:
            name: csb-artifacts
            path: |
             csb/bm-generator/ls_strace.log
-            csb/results/ls_strace.log
-            csb/results/bench-select
+            csb/results
+            csb/bench-select
